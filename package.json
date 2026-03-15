@@ -4,6 +4,7 @@
   "description": "Popup Testing",
   "author": "Vic",
   "private": true,
+  "packageManager": "yarn@1.22.22",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
